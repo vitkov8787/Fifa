@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2337a07880543846e1c97cc3547ff307",
+  "assets/AssetManifest.json": "4e5f6927b6f32b80ed334e5c2b66d791",
+"assets/assets/fifa.jpg": "b5174e03648dc4f2eb691561a8d6895e",
 "assets/assets/sample.json": "8d83728e0378938da335e21f2fcc5883",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
@@ -20,9 +21,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "133c4af564a38087f7c2c9b7b1394580",
-"/": "133c4af564a38087f7c2c9b7b1394580",
-"main.dart.js": "79e37a6bae21cf1fd0cb92ea3c0efc88",
+"index.html": "ad29ec3c005c0d0691b3f7332c413229",
+"/": "ad29ec3c005c0d0691b3f7332c413229",
+"main.dart.js": "9d7f691772c6c254df5c3118027c896b",
 "manifest.json": "2ed5ab667b0c45b46f19d92a838188c5",
 "version.json": "f011619acdda7afa97716db9b9478bd8"
 };
